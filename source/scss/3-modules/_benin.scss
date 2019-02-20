@@ -1,0 +1,30 @@
+.benin-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.benin-green-vertical-band {
+    width: 40%;
+    height: 100%;
+
+    background-color: #008850;
+}
+
+.benin-bicolor-container {
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.benin-bicolor-row {
+    flex: 1;
+}
+
+.benin-yellow {
+    background-color: #FCD20F;
+}
+
+.benin-red {
+    background-color: #E90929;
+}
