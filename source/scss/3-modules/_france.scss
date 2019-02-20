@@ -1,0 +1,21 @@
+.france-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.france-column {
+    height: 100%;
+    flex: 1;
+}
+
+.france-blue {
+    background-color: #0055A4;
+}
+
+.france-white {
+    background-color: white;
+}
+
+.france-red {
+    background-color: #EF4135;
+}
