@@ -1,0 +1,21 @@
+.germany-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.germany-row {
+    flex: 1;
+    width: 100%;
+}
+
+.germany-black {
+    background-color: black;
+}
+
+.germany-red {
+    background-color: #FF0000;
+}
+
+.germany-gold {
+    background-color: #FFCC00;
+}

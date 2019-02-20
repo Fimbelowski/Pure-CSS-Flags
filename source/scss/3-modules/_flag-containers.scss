@@ -9,8 +9,16 @@
     align-items: center;
 }
 
-.three-by-two-ar-container {
+.three-by-two-ar-container-inner {
     width: 900px;
     height: 600px;
+}
+
+.five-by-three-ar-container-inner {
+    width: 1000px;
+    height: 600px;
+}
+
+.container-inner-border {
     border: 1px solid black;
 }
