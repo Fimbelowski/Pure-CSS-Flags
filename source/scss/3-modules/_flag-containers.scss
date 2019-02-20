@@ -9,16 +9,17 @@
     align-items: center;
 }
 
-.three-by-two-ar-container-inner {
+.flag-container-inner {
+    box-sizing: content-box;
+    border: 1px solid black;
+}
+
+.three-by-two-ar {
     width: 900px;
     height: 600px;
 }
 
-.five-by-three-ar-container-inner {
+.five-by-three-ar {
     width: 1000px;
     height: 600px;
-}
-
-.container-inner-border {
-    border: 1px solid black;
 }
