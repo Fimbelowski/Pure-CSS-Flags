@@ -1,0 +1,21 @@
+.belgium-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.belgium-column {
+    flex: 1;
+    height: 100%;
+}
+
+.belgium-black {
+    background-color: black;
+}
+
+.belgium-yellow {
+    background-color: #FDDA24;
+}
+
+.belgium-red {
+    background-color: #EF3340;
+}
