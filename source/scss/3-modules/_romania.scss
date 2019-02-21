@@ -1,0 +1,21 @@
+.romania-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.romania-column {
+    flex: 1;
+    height: 100%;
+}
+
+.romania-blue {
+    background-color: #002B7F;
+}
+
+.romania-yellow {
+    background-color: #FCD116;
+}
+
+.romania-red {
+    background-color: #CE1126;
+}
