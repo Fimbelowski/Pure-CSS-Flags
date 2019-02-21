@@ -1,0 +1,23 @@
+.bostwana-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.bostwana-row {
+    width: 100%;
+}
+
+.bostwana-light-blue-row {
+    height: 225px;
+    background-color: #76ABDC;
+}
+
+.bostwana-white-row {
+    height: 25px;
+    color: white;
+}
+
+.bostwana-black-row {
+    height: 100px;
+    background-color: black;
+}
