@@ -1,0 +1,17 @@
+.monaco-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.monaco-row {
+    flex: 1;
+    width: 100%;
+}
+
+.monaco-red {
+    background-color: #CE1126;
+}
+
+.monaco-white {
+    background-color: white;
+}
