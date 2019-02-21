@@ -1,0 +1,28 @@
+.the-gambia-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.the-gambia-row {
+    width: 100%;
+}
+
+.the-gambia-red {
+    flex: 6;
+    background-color: #CF0921;
+}
+
+.the-gambia-white {
+    flex: 1;
+    background-color: white;
+}
+
+.the-gambia-blue {
+    flex: 4;
+    background-color: #04158D;
+}
+
+.the-gambia-green {
+    flex: 6;
+    background-color: #377823;
+}
