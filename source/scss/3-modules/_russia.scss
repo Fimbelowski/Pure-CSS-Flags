@@ -1,0 +1,21 @@
+.russia-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.russia-row {
+    flex: 1;
+    width: 100%;
+}
+
+.russia-white {
+    background-color: white;
+}
+
+.russia-blue {
+    background-color: #0039A6;
+}
+
+.russia-red {
+    background-color: #D00B0E;
+}
