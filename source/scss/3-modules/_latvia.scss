@@ -1,0 +1,18 @@
+.latvia-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.latvia-row {
+    width: 100%;
+}
+
+.latvia-red {
+    flex: 2;
+    background-color: #9E3039;
+}
+
+.latvia-white {
+    flex: 1;
+    background-color: white;
+}
