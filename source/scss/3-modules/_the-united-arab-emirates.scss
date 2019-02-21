@@ -1,0 +1,34 @@
+.the-united-arab-emirates-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.the-united-arab-emirates-vertical-red-band {
+    flex: 1;
+    height: 100%;
+    background-color: red;
+}
+
+.the-united-arab-emirates-tricolor-container {
+    flex: 3;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.the-united-arab-emirates-tricolor-band {
+    flex: 1;
+    width: 100%;
+}
+
+.the-united-arab-emirates-green {
+    background-color: #00732F;
+}
+
+.the-united-arab-emirates-white {
+    background-color: white;
+}
+
+.the-united-arab-emirates-black {
+    background-color: black;
+}
