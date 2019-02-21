@@ -1,0 +1,23 @@
+.thailand-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.thailand-row {
+    width: 100%;
+}
+
+.thailand-red {
+    flex: 1;
+    background-color: #A51931;
+}
+
+.thailand-white {
+    flex: 1;
+    background-color: #F4F5F8;
+}
+
+.thailand-blue {
+    flex: 2;
+    background-color: #2D2A4A;
+}
