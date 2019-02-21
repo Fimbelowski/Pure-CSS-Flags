@@ -1,0 +1,21 @@
+.lithuania-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.lithuania-row {
+    flex: 1;
+    width: 100%;
+}
+
+.lithuania-yellow {
+    background-color: #FDB913;
+}
+
+.lithuania-green {
+    background-color: #006A44;
+}
+
+.lithuania-red {
+    background-color: #C1272D;
+}
