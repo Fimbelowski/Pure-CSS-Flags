@@ -1,0 +1,27 @@
+.madagascar-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.madagascar-white-band {
+    flex: 1;
+    background-color: white;
+}
+
+.madagascar-bicolor-container {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.madagascar-bicolor-band {
+    flex: 1;
+}
+
+.madagascar-red {
+    background-color: #C8102E;
+}
+
+.madagascar-green {
+    background-color: #00B140;
+}
