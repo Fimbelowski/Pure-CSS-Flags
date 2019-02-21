@@ -1,0 +1,21 @@
+.mali-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.mali-column {
+    flex: 1;
+    height: 100%;
+}
+
+.mali-green {
+    background-color: #14B53A;
+}
+
+.mali-gold {
+    background-color: #FCD116;
+}
+
+.mali-red {
+    background-color: #CE1126;
+}
