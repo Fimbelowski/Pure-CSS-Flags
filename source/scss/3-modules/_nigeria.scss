@@ -1,0 +1,17 @@
+.nigeria-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.nigeria-column {
+    flex: 1;
+    height: 100%;
+}
+
+.nigeria-green {
+    background-color: #008753;
+}
+
+.nigeria-white {
+    background-color: white;
+}
