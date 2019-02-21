@@ -1,0 +1,31 @@
+.niger-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.niger-row {
+    flex: 1;
+    width: 100%;
+}
+
+.niger-orange {
+    background-color: #E05206;
+}
+
+.niger-white {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.niger-green {
+    background-color: #0DB02B;
+}
+
+.niger-disc {
+    width: 143px / 580px * 100%;
+    height: (143px / 497px) * 300%;
+    border-radius: 50%;
+}
