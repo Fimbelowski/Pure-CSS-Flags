@@ -1,0 +1,17 @@
+.poland-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.poland-row {
+    flex: 1;
+    width: 100%;
+}
+
+.poland-white {
+    background-color: white;
+}
+
+.poland-red {
+    background-color: #DC143C;
+}
