@@ -1,0 +1,21 @@
+.bulgaria-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.bulgaria-row {
+    flex: 1;
+    width: 100%;
+}
+
+.bulgaria-white {
+    background-color: white;
+}
+
+.bulgaria-green {
+    background-color: #009B75;
+}
+
+.bulgaria-red {
+    background-color: #D01C1F;
+}
