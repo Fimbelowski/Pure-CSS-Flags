@@ -1,0 +1,21 @@
+.chad-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.chad-column {
+    flex: 1;
+    height: 100%;
+}
+
+.chad-blue {
+    background-color: #002164;
+}
+
+.chad-gold {
+    background-color: #FECC00;
+}
+
+.chad-red {
+    background-color: #C7042C;
+}
