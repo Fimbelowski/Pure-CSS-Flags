@@ -1,0 +1,25 @@
+.mauritius-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.mauritius-row {
+    flex: 1;
+    width: 100%;
+}
+
+.mauritius-red {
+    background-color: #E4002B;
+}
+
+.mauritius-blue {
+    background-color: #002855;
+}
+
+.mauritius-yellow {
+    background-color: #FFCD00;
+}
+
+.mauritius-green {
+    background-color: #007A33;
+}
