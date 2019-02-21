@@ -1,0 +1,21 @@
+.guinea-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.guinea-column {
+    flex: 1;
+    height: 100%;
+}
+
+.guinea-red {
+    background-color: #CF0921;
+}
+
+.guinea-yellow {
+    background-color: #FCD20E;
+}
+
+.guinea-green {
+    background-color: #009560;
+}
