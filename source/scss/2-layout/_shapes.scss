@@ -1,3 +1,21 @@
+.equal-row {
+    flex: 1;
+    width: 100%;
+}
+
+.unequal-row {
+    width: 100%;
+}
+
+.equal-col {
+    flex: 1;
+    height: 100%;
+}
+
+.unequal-col {
+    height: 100%;
+}
+
 .equilateral-triangle {
     clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
 }

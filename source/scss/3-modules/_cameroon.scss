@@ -1,18 +1,3 @@
-.cameroon-container {
-    position: relative;
-}
-
-.cameroon-background {
-    display: flex;
-    flex-direction: row;
-    z-index: 0;
-}
-
-.cameroon-tricolor-band {
-    flex: 1;
-    height: 100%;
-}
-
 .cameroon-green {
     background-color: #007A5E;
 }
@@ -26,11 +11,8 @@
 }
 
 .cameroon-foreground {
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    z-index: 1;
 }
 
 .cameroon-star {

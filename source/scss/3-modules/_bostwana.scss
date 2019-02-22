@@ -1,23 +1,14 @@
-.bostwana-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.bostwana-row {
-    width: 100%;
-}
-
-.bostwana-light-blue-row {
-    height: 225px;
+.bostwana-light-blue {
+    flex: 9;
     background-color: #76ABDC;
 }
 
-.bostwana-white-row {
-    height: 25px;
+.bostwana-white {
+    flex: 1;
     color: white;
 }
 
-.bostwana-black-row {
-    height: 100px;
+.bostwana-black {
+    flex: 4;
     background-color: black;
 }

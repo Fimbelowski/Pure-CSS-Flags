@@ -21,6 +21,14 @@
     height: 100%;
 }
 
+.layer-0 {
+    z-index: 0;
+}
+
+.layer-1 {
+    z-index: 1;
+}
+
 .two-by-one-ar {
     width: 1200px;
     height: 600px;
@@ -64,4 +72,14 @@
 .fifteen-by-thirteen-ar {
     width: 675px;
     height: 585px;
+}
+
+.flex-row-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col-container {
+    display: flex;
+    flex-direction: column;
 }

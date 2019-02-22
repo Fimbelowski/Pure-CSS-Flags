@@ -1,22 +1,5 @@
-.bahrain-container {
-    position: relative;
-}
-
-.bahrain-background {
-    position: absolute;
-    width: 100%;
-    height: 100%;
+.bahrain-red {
     background-color: #C8102E;
-    z-index: 0;
-}
-
-.bahrain-foreground-container {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: row;
-    z-index: 1;
 }
 
 .bahrain-foreground-band {
@@ -28,8 +11,6 @@
 .bahrain-zig-zag {
     width: 15%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
 }
 
 .bahrain-triangle {
