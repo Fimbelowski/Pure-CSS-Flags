@@ -12,6 +12,13 @@
 .flag-container-inner {
     box-sizing: content-box;
     border: 1px solid black;
+    position: relative;
+}
+
+.layer-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 .two-by-one-ar {
