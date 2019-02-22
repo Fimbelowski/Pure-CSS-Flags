@@ -1,0 +1,39 @@
+.the-bahamas-container {
+    position: relative;
+}
+
+.the-bahamas-tricolor-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    z-index: 0;
+}
+
+.the-bahamas-tricolor-band {
+    flex: 1;
+    width: 100%;
+}
+
+.the-bahamas-aquamarine {
+    background-color: #00778B;
+}
+
+.the-bahamas-gold {
+    background-color: #FFC72C;
+}
+
+.the-bahamas-triangle-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.the-bahamas-triangle {
+    width: 519.62px;
+    height: 100%;
+    background-color: black;
+    clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+}
